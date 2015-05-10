@@ -1,0 +1,9 @@
+Step 1: Get Docker container running to provide you your Python Learning environment on the go (Command something similar to the below one)
+sudo docker run --name mypythonbox -v /home/kd/PythonTheHardWay/Programming:/data -P -d kuldeeparyadotcom/learnpython
+
+Step 2: SSH to your container (Command something similar to the below one)
+ssh admin@DockerTutorialsAdvanced -p 49156
+
+Enjoy!
+
+For any further query, please feel free to write to KD <kuldeeparyadotcom@gmail.com>
