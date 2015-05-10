@@ -1,0 +1,4 @@
+this file serves as a sample input file for ex20.py
+second line for sample file
+third line for sampe file
+Good thing is that even if there is no line, it would simply display blank on stdout (nice to see Python error handling)
